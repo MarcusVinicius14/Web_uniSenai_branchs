@@ -12,6 +12,7 @@ body {
 }
 
 h1 {
+  margin-top: 30px;
   font-family: Inter;
   font-size: 49px;
   font-weight: 400;
@@ -22,11 +23,12 @@ h1 {
 }
 
 p {
-  color: #7d7987;
+  margin-top: 40px;
+  color: #5c5a5f;
   font-family: Inter;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
-  line-height: 28px;
+  line-height: 45px;
   text-align: center;
 }
 
