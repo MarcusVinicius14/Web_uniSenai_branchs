@@ -11,6 +11,17 @@ body {
   justify-content: center;
 }
 
+.headerContainer{
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid #13388885;
+  gap: 30px;
+}
+
+.linkHome{
+  margin-top: 150px;
+}
+
 h1 {
   font-family: Inter;
   font-size: 49px;
@@ -40,11 +51,6 @@ p {
   text-shadow: 0px 4px 4px #7d7987;
 }
 
-.barraHeader {
-  width: 400px;
-  border-bottom: 1px solid #13388885;
-}
-
 .span1 {
   color: #0075ff;
   font-family: Inter;
@@ -64,7 +70,6 @@ p {
 }
 
 .container {
-  width: 593px;
   height: 579px;
   display: flex;
   align-items: center;
