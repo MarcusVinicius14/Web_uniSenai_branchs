@@ -11,9 +11,6 @@
     justify-content: center;
   }
   
-  h1 {
-    
-  }
   
   p {
     color: #7d7987;
@@ -79,7 +76,6 @@
     border-top: solid 1px #eceff2;
     margin-top: 250px;
   }
-  
   a {
     margin-top: 8px;
     color: #0075ff;
@@ -94,7 +90,7 @@
     padding-top: 5em;
     padding-bottom: 5em;
   }
-
+  
   legend{
     color:#0075ff;
     font-weight: bold;
